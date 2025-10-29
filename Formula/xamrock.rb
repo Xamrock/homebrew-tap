@@ -1,8 +1,8 @@
 class Xamrock < Formula
   desc "AI-powered mobile app testing from your terminal"
   homepage "https://github.com/Xamrock/CLI"
-  url "https://github.com/Xamrock/CLI/archive/refs/tags/0.1.0.tar.gz"
-  sha256 "5fb3b7a12d6ab24fd96ea0ee88b6037654f48cc9a0c407fc1efbb690bfbee524"
+  url "https://github.com/Xamrock/CLI/archive/refs/tags/0.2.0.tar.gz"
+  sha256 "a2b7fcd25ad7f2cc7fe2d7fd62092e43053de8f1a2d39c7590f74cccd1b2e400"
   license "MIT"
 
   depends_on xcode: ["15.0", :build]
